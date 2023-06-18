@@ -1,2 +1,2 @@
 # learning-python
-## This is a git demo - by user 2
+## This is a git demo
